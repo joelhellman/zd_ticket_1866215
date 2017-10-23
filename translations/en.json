@@ -1,0 +1,13 @@
+{
+  "app": {
+    "package": "app_name",
+    "description": {
+      "value": "Play the famous zen tunes in your help desk.",
+      "title": "app description"
+    },
+    "name": {
+      "value": "Buddha Machine",
+      "title": "app name"
+    }
+  }
+}

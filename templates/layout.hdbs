@@ -1,0 +1,4 @@
+<section data-main>
+  <p>ZD Ticket 1866215, bad change events</p>
+  <button class="getEvents" href="#">Print Events to console</button>
+</section>

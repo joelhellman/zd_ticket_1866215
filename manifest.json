@@ -1,0 +1,13 @@
+{
+  "name": "ZD Ticket #1866215",
+  "author": {
+    "name": "Joel Hellman",
+    "email": "joel.hellman@tre.se",
+    "url": "https://github.com/joelhellman/zd_ticket_1866215"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": ["ticket_sidebar", "new_ticket_sidebar"],
+  "version": "1.1",
+  "frameworkVersion": "1.0"
+}
